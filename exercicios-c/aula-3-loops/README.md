@@ -1,0 +1,1 @@
+Essas atividades sao progrmas que utilizam loops (do-while, while, for)

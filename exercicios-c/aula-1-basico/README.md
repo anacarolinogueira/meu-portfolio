@@ -1,0 +1,1 @@
+Nesses exercicios mostra como utilizar variaveis e mostar palavras na tela (printf)
