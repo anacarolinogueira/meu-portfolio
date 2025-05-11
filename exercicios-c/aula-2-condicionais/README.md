@@ -1,4 +1,4 @@
-# Nesses exercicios mostra como fazer um programa utilizando condicionais (if,eslse) e cálculos
+# Nesses exercicios mostra como fazer um programa utilizando condicionais (if/else) e cálculos
 
 ## 1. Ordenação de Números
 **Conceitos:**  
